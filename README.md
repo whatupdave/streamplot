@@ -2,7 +2,7 @@
 
 Experimental streaming plotter.
 
-## Try it out
+## Example: show histogram of wikipedia updates
 
 ```
 $ git clone git@github.com:whatupdave/streamplot.git
