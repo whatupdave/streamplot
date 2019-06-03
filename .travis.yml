@@ -7,5 +7,4 @@ git:
   depth: false
 script:
   - zig-linux-*/zig version
-  - zig-linux-*/zig build test
   - zig-linux-*/zig build
