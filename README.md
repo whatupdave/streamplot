@@ -1,6 +1,6 @@
-# streamplot
+# streamplot [![Build Status](https://travis-ci.org/whatupdave/streamplot.svg?branch=master)](https://travis-ci.org/whatupdave/streamplot)
 
-Experimental streaming plotter.
+**streamplot** is a command line app that plots a histogram of streaming data.
 
 ## Example: show histogram of wikipedia updates
 
